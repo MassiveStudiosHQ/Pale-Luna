@@ -1,9 +1,3 @@
-#Portugues - Pale Luna - Recriação em JavaScript 🎮🌕
-#English - Pale Luna - A JavaScript Recreation 🎮🌕 (Only in Portuguese language)  
-#Espanõl - Pale Luna - Recreación en JavaScript 🎮🌕 (Only in Portuguese language)
-
-------------------------------------------------------------------------------------------------------
-
 #Portugues:
 
 Pale Luna - Recriação em JavaScript 🎮🌕                                                             
@@ -36,7 +30,8 @@ Pale Luna - Recriação em JavaScript 🎮🌕
 -> Abra o arquivo usando o Visual Studio Code ou outro editor de código de sua escolha. 
 
 ⚠️ Observação:                                                                                        
--> Este projeto é uma recriação do jogo original "Pale Luna" e não é um produto autoral meu. O  objetivo é homenagear e recriar a experiência do jogo utilizando JavaScript.
+-> Este projeto é uma recriação do jogo original "Pale Luna" e não é um produto autoral meu. O  objetivo é homenagear e recriar a experiência do jogo utilizando JavaScript.                                                                                                                                
+-> Apenas disponivel em Portugues.
 
 ------------------------------------------------------------------------------------------------------
 #English:
@@ -71,7 +66,8 @@ Pale Luna - A JavaScript Recreation 🎮🌕
 -> Open the file using Visual Studio Code or any code editor of your choice.                          
 
 ⚠️ Note:                                                                                              
--> This project is a recreation of the original "Pale Luna" game and not my original creation. Its purpose is to honor and recreate the game's experience using JavaScript.
+-> This project is a recreation of the original "Pale Luna" game and not my original creation. Its purpose is to honor and recreate the game's experience using JavaScript.                                                                                                                          
+-> Only availble in Portuguese
 
 ------------------------------------------------------------------------------------------------------
 #Espanõl:
@@ -106,7 +102,8 @@ Pale Luna - Recreación en JavaScript 🎮🌕
 -> Ábrelo con Visual Studio Code o el editor de código de tu preferencia.                             
 
 ⚠️ Nota:                                                                                              
--> Este proyecto es una recreación del juego original "Pale Luna" y no es una creación original mía. El objetivo es rendir homenaje y recrear la experiencia del juego utilizando JavaScript.
+-> Este proyecto es una recreación del juego original "Pale Luna" y no es una creación original mía. El objetivo es rendir homenaje y recrear la experiencia del juego utilizando JavaScript.                                                                                                          
+-> Solo disponible en Portugués.
 
 ------------------------------------------------------------------------------------------------------
 #Divirta-se!
