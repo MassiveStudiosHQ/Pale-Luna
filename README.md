@@ -1,3 +1,9 @@
+#Portugues - Pale Luna - Recriação em JavaScript 🎮🌕
+#English - Pale Luna - A JavaScript Recreation 🎮🌕 (Only in Portuguese language)  
+#Espanõl - Pale Luna - Recreación en JavaScript 🎮🌕 (Only in Portuguese language)
+
+------------------------------------------------------------------------------------------------------
+
 #Portugues:
 
 Pale Luna - Recriação em JavaScript 🎮🌕                                                             
