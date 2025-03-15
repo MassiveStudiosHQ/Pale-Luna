@@ -10,7 +10,7 @@ Pale Luna - Recriação em JavaScript 🎮🌕
 
 🛠️ Requisitos Necessários:                                                                             
 -> Antes de começar, certifique-se de atender aos seguintes requisitos:                               
--> Sistema Operacional: Windows, MacOS ou Linux.                                                      
+-> Sistema Operacional: Windows.                                                      
 -> Node.js instalado: Versão atualizada recomendada.                                                  
 -> Um editor de código: Como Visual Studio Code ou outro de sua preferência.                          
 -> Programa para extração de arquivos: Como WinRAR ou 7-Zip, para descompactar o Pale Luna.rar.       
@@ -46,7 +46,7 @@ Pale Luna - A JavaScript Recreation 🎮🌕
 
 🛠️ Requirements:                                                                                       
 -> Before starting, ensure you meet these requirements:                                               
--> Operating System: Windows, MacOS, or Linux.                                                        
+-> Operating System: Windows.                                                        
 -> Node.js installed: Updated version recommended.                                                    
 -> A code editor: Such as Visual Studio Code or another of your choice.                               
 -> File extraction tool: Such as WinRAR or 7-Zip to unpack Pale Luna.rar.                             
@@ -82,7 +82,7 @@ Pale Luna - Recreación en JavaScript 🎮🌕
 
 🛠️ Requisitos Necesarios:                                                                              
 -> Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:                             
--> Sistema Operativo: Windows, MacOS o Linux.                                                         
+-> Sistema Operativo: Windows.                                     .                                                         
 -> Node.js instalado: Se recomienda la versión actualizada.                                           
 -> Un editor de código: Como Visual Studio Code u otro de tu preferencia.                             
 -> Herramienta para descomprimir archivos: Como WinRAR o 7-Zip, para extraer Pale Luna.rar.           
