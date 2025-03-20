@@ -5,7 +5,7 @@ Pale Luna 🌑
 Características do projeto:                                                                                       
 -> Adaptação fiel ao espírito do jogo original.                                                       
 -> Lógica de jogo interativa e narrativa envolvente.
--> UI mais amigavél
+-> UI mais amigavél                                                                                                
 -> Ideal para exploradores curiosos e desenvolvedores interessados em código bem estruturado.         
 
 Requisitos Necessários:                                                                                         
