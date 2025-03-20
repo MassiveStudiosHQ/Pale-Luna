@@ -40,6 +40,5 @@ Como Ver o Código-Fonte
 -> Este projeto é uma recriação do jogo original "Pale Luna" e não é um produto autoral meu. O  objetivo é homenagear e recriar a experiência do jogo utilizando JavaScript.                                                                                                                                
 -> Apenas disponivel em Portugues.
 
-------------------------------------------------------------------------------------------------------
 Divirta-se!
 ------------------------------------------------------------------------------------------------------
