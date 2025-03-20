@@ -10,7 +10,6 @@ Características do projeto:
 -> UI mais amigavél                                                                                                
 -> Ideal para exploradores curiosos e desenvolvedores interessados em código bem estruturado.         
 
-------------------------------------------------------------------------------------------------------        
 Requisitos Necessários:
 ------------------------------------------------------------------------------------------------------        
 -> Antes de começar, certifique-se de atender aos seguintes requisitos:                               
@@ -19,7 +18,6 @@ Requisitos Necessários:
 -> Um editor de código: Como Visual Studio Code ou outro de sua preferência.                          
 -> Programa para extração de arquivos: Como WinRAR ou 7-Zip, para descompactar o Pale Luna.rar.       
 
-------------------------------------------------------------------------------------------------------        
 Como Abrir o Jogo 
 ------------------------------------------------------------------------------------------------------        
 -> Extraia o conteúdo do arquivo Pale Luna.rar usando o programa de sua escolha.                      
@@ -28,7 +26,7 @@ Como Abrir o Jogo
 -> Execute o arquivo .bat para iniciar o jogo no Command Prompt do Node.js..                          
 -> Agora é só aproveitar a experiência misteriosa do Pale Luna!          
 
-------------------------------------------------------------------------------------------------------        
+
 Como Ver o Código-Fonte      
 ------------------------------------------------------------------------------------------------------        
 -> Se quiser explorar o código-fonte do projeto:                                                      
@@ -37,7 +35,6 @@ Como Ver o Código-Fonte
 -> Localize o arquivo Pale Luna.js.                                                                   
 -> Abra o arquivo usando o Visual Studio Code ou outro editor de código de sua escolha. 
 
-------------------------------------------------------------------------------------------------------        
 ⚠️ Observação:
 ------------------------------------------------------------------------------------------------------        
 -> Este projeto é uma recriação do jogo original "Pale Luna" e não é um produto autoral meu. O  objetivo é homenagear e recriar a experiência do jogo utilizando JavaScript.                                                                                                                                
