@@ -1,0 +1,30 @@
+#######################
+# PALE LUNA - Leia-me #
+#######################
+
+Bem-vindo ao Pale Luna!
+
+Este projeto é uma recriação do misterioso e intrigante jogo "Pale Luna", desenvolvido em JavaScript.  
+
+Você baixou **somente o código-fonte**. Isso significa que:
+- Este pacote não contém um arquivo executável.
+- Ele foi disponibilizado apenas para que você possa **verificar**, **explorar** e **modificar** o código.  
+
+Se você deseja criar um executável do projeto, utilize ferramentas como **Bat To Exe Converter** para transformar o arquivo `.bat` em um arquivo pronto para execução.  
+
+=======================
+INSTRUÇÕES:
+=======================
+1. Extraia os arquivos para uma pasta de sua escolha.
+2. Abra os arquivos em um editor de código como Visual Studio Code.
+3. Execute o arquivo `.bat` incluso para verificar a funcionalidade no prompt de comando.  
+4. Certifique-se de que o **Node.js** está instalado no sistema antes de prosseguir.  
+
+=======================
+AVISO:
+=======================
+Este projeto foi desenvolvido com fins educacionais e de entretenimento. Ele não possui nenhuma relação oficial com o jogo original "Pale Luna".
+
+Aproveite a experiência misteriosa e divirta-se explorando o código!
+
+#######################
