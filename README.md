@@ -12,7 +12,7 @@ Características do projeto:
 Requisitos Necessários:
 ------------------------------------------------------------------------------------------------------        
 -> Antes de começar, certifique-se de atender aos seguintes requisitos:                               
--> Sistema Operacional: Windows.                                                      
+-> Sistema Operacional: Windows, Linux (Beta).                                                      
 -> Node.js instalado: Versão atualizada recomendada.                                                  
 -> Um editor de código: Como Visual Studio Code ou outro de sua preferência.                          
 -> Programa para extração de arquivos: Como WinRAR ou 7-Zip, para descompactar o Pale Luna.rar.       
