@@ -1,11 +1,11 @@
 Pale Luna 🌑
 ------------------------------------------------------------------------------------------------------                                 
 
-![download.png](download.png)
+![download.png](Design sem nome_20250411_194050_0000.png)
      
 Características do projeto:
 ------------------------------------------------------------------------------------------------------        
--> Adaptação fiel ao espírito do jogo original.                                                       
+-> Adaptação fiel ao espírito da creepypasta original.                                                       
 -> Lógica de jogo interativa e narrativa envolvente.                                                            
 -> UI mais amigavél                                                                                                
 -> Ideal para exploradores curiosos e desenvolvedores interessados em código bem estruturado.         
@@ -37,7 +37,7 @@ Como Ver o Código-Fonte
 
 ⚠️ Observação:
 ------------------------------------------------------------------------------------------------------        
--> Este projeto é uma recriação do jogo original "Pale Luna" e não é um produto autoral meu. O  objetivo é homenagear e recriar a experiência do jogo utilizando JavaScript.                                                                                                                                
+-> Este projeto é uma recriação da Creepypasta original "Pale Luna" e não é um produto autoral meu. O  objetivo é homenagear e recriar a experiência da Creepypasta utilizando JavaScript.                                                                                                                                
 -> Apenas disponivel em Portugues.
 
 Divirta-se!
