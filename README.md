@@ -20,11 +20,9 @@ Requisitos Necessários:
 
 Como Abrir o Jogo 
 ------------------------------------------------------------------------------------------------------        
--> Extraia o conteúdo do arquivo Pale Luna.rar usando o programa de sua escolha.                      
--> Abra a pasta descompactada.                                                                        
--> Localize o arquivo .bat (com o mesmo nome da pasta) dentro dela.                                   
--> Execute o arquivo .bat para iniciar o jogo no Command Prompt do Node.js..                          
--> Agora é só aproveitar a experiência misteriosa do Pale Luna!          
+-> Windows: Basta executar o instalador. seguir os passos e pronto.
+
+-> Linux: Se estiver usando Linux basta baixa o .zip, após isso você precisa abrir o terminal da sua distro Linux no diretório do jogo e digitar chmod +x (nome do arquivo .sh) e depois de fazer isso basta apertar com o botão direito no .sh e executar como um programa.      
 
 
 Como Ver o Código-Fonte      
@@ -37,7 +35,6 @@ Como Ver o Código-Fonte
 
 ⚠️ Observação:
 ------------------------------------------------------------------------------------------------------        
--> Este projeto é uma recriação da Creepypasta original "Pale Luna" e não é um produto autoral meu. O  objetivo é homenagear e recriar a experiência da Creepypasta utilizando JavaScript.                                                                                                                                
 -> Apenas disponivel em Portugues.
 
 Divirta-se!
