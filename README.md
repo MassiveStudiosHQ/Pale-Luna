@@ -1,4 +1,4 @@
-Pale Luna 🌑
+Pale Luna™ Terminal Edition 🌑
 ------------------------------------------------------------------------------------------------------                                 
 
 ![A23.png](A23.png)
@@ -13,16 +13,19 @@ Características do projeto:
 Requisitos Necessários:
 ------------------------------------------------------------------------------------------------------        
 -> Antes de começar, certifique-se de atender aos seguintes requisitos:                               
--> Sistema Operacional: Windows, Linux (Beta).                                                      
--> Node.js instalado: Versão atualizada recomendada.                                                  
+-> Sistema Operacional: Windows, Linux (descontinuado).                                                      
+-> Node.js instalado: Versão atualizada recomendada.
+
+Requisitos Opcionais:
+------------------------------------------------------------------------------------------------------  
 -> Um editor de código: Como Visual Studio Code ou outro de sua preferência.                          
--> Programa para extração de arquivos: Como WinRAR ou 7-Zip, para descompactar o Pale Luna.rar.       
+-> Programa para extração de arquivos: Como WinRAR ou 7-Zip, para descompactar o codigo fonte do jogo.       
 
 Como Abrir o Jogo 
 ------------------------------------------------------------------------------------------------------        
 -> Windows: Basta executar o instalador. seguir os passos e pronto.
 
--> Linux: Se estiver usando Linux basta baixa o .zip, após isso você precisa abrir o terminal da sua distro Linux no diretório do jogo e digitar chmod +x (nome do arquivo .sh) e depois de fazer isso basta apertar com o botão direito no .sh e executar como um programa.      
+-> Linux (descontinuado): Se estiver usando Linux basta baixa o .zip, após isso você precisa abrir o terminal da sua distro Linux no diretório do jogo e digitar chmod +x (nome do arquivo .sh) e depois de fazer isso basta apertar com o botão direito no .sh e executar como um programa.      
 
 
 Como Ver o Código-Fonte      
