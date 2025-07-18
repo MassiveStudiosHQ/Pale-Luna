@@ -29,10 +29,10 @@ How to Open the Game
 
 How to View the Source Code
 ------------------------------------------------------------------------------------------------------
--> If you want to explore the project's source code:
--> Follow the steps above until you open the unzipped folder.
--> Navigate to the subfolder named assets.
--> Locate the Pale Luna.js file.
+-> If you want to explore the project's source code:                                                                                                                                              
+-> Follow the steps above until you open the unzipped folder.                                                                                                                                              
+-> Navigate to the subfolder named assets.                                                                                                                                              
+-> Locate the Pale Luna.js file.                                                                                                                                              
 -> Open the file using Visual Studio Code or another code editor of your choice.
 
 ⚠️ Note:
