@@ -5,20 +5,20 @@ Pale Luna™ Terminal Edition 🌑
      
 Project Features:
 ------------------------------------------------------------------------------------------------------
--> Faithful adaptation of the spirit of the original creepypasta.
--> Interactive game logic and engaging narrative.
--> More user-friendly UI
+-> Faithful adaptation of the spirit of the original creepypasta.                                                                       
+-> Interactive game logic and engaging narrative.                                                                                                                                              
+-> More user-friendly UI                                                                                                                                              
 -> Ideal for curious explorers and developers interested in well-structured code.
 
 Required Requirements:
 ------------------------------------------------------------------------------------------------------
--> Before starting, make sure you meet the following requirements:
--> Operating System: Windows, Linux (discontinued).
+-> Before starting, make sure you meet the following requirements:                                                                       
+-> Operating System: Windows, Linux (discontinued).                                                                                                                                              
 -> Node.js installed: Up-to-date version recommended.
 
 Optional Requirements:
 ------------------------------------------------------------------------------------------------------
--> A code editor: Such as Visual Studio Code or another of your choice.
+-> A code editor: Such as Visual Studio Code or another of your choice.                                                                       
 -> File extraction program: Such as WinRAR or 7-Zip, to unzip the game's source code.
 
 How to Open the Game
