@@ -3,42 +3,41 @@ Pale Luna™ Terminal Edition 🌑
 
 ![26.jpg](26.jpg)
      
-Características do projeto:
-------------------------------------------------------------------------------------------------------        
--> Adaptação fiel ao espírito da creepypasta original.                                                       
--> Lógica de jogo interativa e narrativa envolvente.                                                            
--> UI mais amigavél                                                                                                
--> Ideal para exploradores curiosos e desenvolvedores interessados em código bem estruturado.         
+Project Features:
+------------------------------------------------------------------------------------------------------
+-> Faithful adaptation of the spirit of the original creepypasta.
+-> Interactive game logic and engaging narrative.
+-> More user-friendly UI
+-> Ideal for curious explorers and developers interested in well-structured code.
 
-Requisitos Necessários:
-------------------------------------------------------------------------------------------------------        
--> Antes de começar, certifique-se de atender aos seguintes requisitos:                               
--> Sistema Operacional: Windows, Linux (descontinuado).                                                      
--> Node.js instalado: Versão atualizada recomendada.
+Required Requirements:
+------------------------------------------------------------------------------------------------------
+-> Before starting, make sure you meet the following requirements:
+-> Operating System: Windows, Linux (discontinued).
+-> Node.js installed: Up-to-date version recommended.
 
-Requisitos Opcionais:
-------------------------------------------------------------------------------------------------------  
--> Um editor de código: Como Visual Studio Code ou outro de sua preferência.                          
--> Programa para extração de arquivos: Como WinRAR ou 7-Zip, para descompactar o codigo fonte do jogo.       
+Optional Requirements:
+------------------------------------------------------------------------------------------------------
+-> A code editor: Such as Visual Studio Code or another of your choice.
+-> File extraction program: Such as WinRAR or 7-Zip, to unzip the game's source code.
 
-Como Abrir o Jogo 
-------------------------------------------------------------------------------------------------------        
--> Windows: Basta executar o instalador. seguir os passos e pronto.
+How to Open the Game
+--------------------------------------------------------------------------------------
+-> Windows: Just run the installer, follow the steps, and you're done.
 
--> Linux (descontinuado): Se estiver usando Linux basta baixa o .zip, após isso você precisa abrir o terminal da sua distro Linux no diretório do jogo e digitar chmod +x (nome do arquivo .sh) e depois de fazer isso basta apertar com o botão direito no .sh e executar como um programa.      
+-> Linux (discontinued): If you're using Linux, simply download the .zip file. After that, open your Linux distro's terminal in the game directory and type chmod +x (.sh file name). After doing so, simply right-click on the .sh file and run it as a program.
 
+How to View the Source Code
+------------------------------------------------------------------------------------------------------
+-> If you want to explore the project's source code:
+-> Follow the steps above until you open the unzipped folder.
+-> Navigate to the subfolder named assets.
+-> Locate the Pale Luna.js file.
+-> Open the file using Visual Studio Code or another code editor of your choice.
 
-Como Ver o Código-Fonte      
-------------------------------------------------------------------------------------------------------        
--> Se quiser explorar o código-fonte do projeto:                                                      
--> Siga os passos acima até abrir a pasta descompactada.                                              
--> Navegue para a subpasta chamada assets.                                                            
--> Localize o arquivo Pale Luna.js.                                                                   
--> Abra o arquivo usando o Visual Studio Code ou outro editor de código de sua escolha. 
+⚠️ Note:
+------------------------------------------------------------------------------------------------------
+-> Only available in Portuguese.
 
-⚠️ Observação:
-------------------------------------------------------------------------------------------------------        
--> Apenas disponivel em Portugues.
-
-Divirta-se!
+Have fun!
 ------------------------------------------------------------------------------------------------------
