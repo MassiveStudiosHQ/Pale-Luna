@@ -35,10 +35,5 @@ How to View the Source Code
 -> Locate the Pale Luna.js file.                                                                                                                                              
 -> Open the file using Visual Studio Code or another code editor of your choice.
 
-⚠️ Note:
-------------------------------------------------------------------------------------------------------
--> Only available in Portuguese.                                                                                                        
--> We will no longer support our games on Github.
-
 Have fun!
 ------------------------------------------------------------------------------------------------------
