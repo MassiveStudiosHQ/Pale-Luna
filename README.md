@@ -1,7 +1,7 @@
 Pale Luna™ Terminal Edition 🌑
 ------------------------------------------------------------------------------------------------------                                 
 
-![Versão 2.5 - Está disponivel.png](Versão 2.5 - Está disponivel.png)
+![Versão 2.5 - Está disponivel.png]("Versão 2.5 - Está disponivel.png")
      
 Project Features:
 ------------------------------------------------------------------------------------------------------
